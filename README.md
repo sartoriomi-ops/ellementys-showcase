@@ -1,41 +1,70 @@
-# ElleMentys
+<div align="center">
+
+# 📚 ElleMentys
 
 **AI tools education brand for absolute beginners.**
 
+![Status](https://img.shields.io/badge/Status-First%20Guide%20Shipped-brightgreen?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+</div>
+
 ---
 
-## What it is
+## 💡 What it is
 
 ElleMentys teaches non-technical people how to use AI tools through free interactive guides, social media content, and a locked visual identity. The audience is people who hear about ChatGPT and Claude but don't know where to start.
 
-## What exists today
+---
 
-- **Interactive HTML guides** — self-contained, no login required, hosted for free
-- **First guide shipped:** "5 AI Tools You Can Start Using Today" (HTML + PDF versions)
-- **Content brand** across LinkedIn, Instagram, and YouTube Shorts
-- **Locked visual identity** with consistent illustration style and brand palettes
-- **Make.com automations** for content scheduling and repurposing
+## ✨ What exists today
 
-## Brand palettes
+| Deliverable | Details |
+|---|---|
+| **Interactive HTML guides** | Self-contained files, no login required, hosted for free |
+| **First guide shipped** | "5 AI Tools You Can Start Using Today" (HTML + PDF versions) |
+| **Content brand** | Active across LinkedIn, Instagram, and YouTube Shorts |
+| **Locked visual identity** | Consistent illustration style, brand palettes, and official logo |
+| **Automations** | Make.com scenarios for content scheduling and repurposing |
 
-The ElleMentys visual system uses six named palettes, each designed for warm, approachable, non-corporate aesthetics:
+---
+
+## 🎨 Brand identity
+
+The visual system uses six named palettes designed for warm, approachable, non-corporate aesthetics:
 
 `Sage` · `Almond` · `Sand` · `Chai` · `Pistache` · `Olive`
 
-## Tech
+**Fonts:** Lora (headings) + Outfit (body)
+
+---
+
+## 🏗️ Tech
 
 | Layer | Tech |
 |---|---|
-| Guides | Self-contained HTML files |
-| Design system | Canva brand kit + locked illustration style |
-| Automations | Make.com |
-| Content pipeline | Claude API + custom skills |
-| Planned | Next.js site for guide hosting |
+| Guides | Self-contained HTML files with embedded CSS/JS |
+| Design system | Canva brand kit + locked illustration style + official logo |
+| Automations | Make.com (scheduling, cross-posting) |
+| Content pipeline | Claude API + custom ElleMentys skills |
+| Carousel generator | Slide Maker v2 (shared tool across all brands) |
+| Planned | Next.js site for centralized guide hosting |
 
-## Status
+---
 
-🟢 **First guide shipped.** Content pipeline active. Next.js site planned for centralized guide hosting.
+## 📊 Status
 
-## Why I built it
+🟢 First guide shipped. Content pipeline active. Next.js site planned for centralized guide hosting.
 
-Most AI education content assumes you already know what a prompt is. ElleMentys starts from zero — explaining AI tools the way you'd explain them to a friend over coffee. The guides are free because the goal is reach, not revenue (for now).
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-michellesartorio.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://michellesartorio.com)
+[![Site](https://img.shields.io/badge/ElleMentys-ellementys.com-809671?style=flat-square&logo=googlechrome&logoColor=white)](https://ellementys.com)
+
+</div>
