@@ -4,7 +4,7 @@
 
 **AI tools education brand for absolute beginners.**
 
-![Status](https://img.shields.io/badge/Status-First%20Guide%20Shipped-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Build%20%E2%80%94%20Landing%20Page%20%2B%20Waitlist-yellow?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)
 
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
@@ -26,7 +26,7 @@ ElleMentys teaches non-technical people how to use AI tools through free interac
 | Deliverable | Details |
 |---|---|
 | **Interactive HTML guides** | Self-contained files, no login required, hosted for free |
-| **First guide shipped** | "5 AI Tools You Can Start Using Today" (HTML + PDF versions) |
+| **First guide in draft** | "5 AI Tools You Can Start Using Today" — publishes with the landing page |
 | **Content brand** | Active across LinkedIn, Instagram, and YouTube Shorts |
 | **Locked visual identity** | Consistent illustration style, brand palettes, and official logo |
 | **Automations** | Make.com scenarios for content scheduling and repurposing |
@@ -52,13 +52,13 @@ The visual system uses six named palettes designed for warm, approachable, non-c
 | Automations | Make.com (scheduling, cross-posting) |
 | Content pipeline | Claude API + custom ElleMentys skills |
 | Carousel generator | Slide Maker v2 (shared tool across all brands) |
-| Planned | Next.js site for centralized guide hosting |
+| In active development | Next.js App Router site in active development (Hero, ARIFramework, CoursePreview, WaitlistCTA components). Deploys to ellementys.com on launch. |
 
 ---
 
 ## 📊 Status
 
-🟢 First guide shipped. Content pipeline active. Next.js site planned for centralized guide hosting.
+🟡 Landing page and waitlist in active build. First guide in draft. Content pipeline active.
 
 ---
 
