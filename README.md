@@ -51,7 +51,7 @@ The visual system uses six named palettes designed for warm, approachable, non-c
 | Design system | Canva brand kit + locked illustration style + official logo |
 | Automations | Make.com (scheduling, cross-posting) |
 | Content pipeline | Claude API + custom ElleMentys skills |
-| Carousel generator | Slide Maker v2 (shared tool across all brands) |
+| Carousel generator | Slide Maker (shared tool across all brands) |
 | Landing page (planned) | Next.js + Tailwind on Vercel. Plan written, domain secured (ellementys.com). No code shipped yet. |
 
 ---
